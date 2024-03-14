@@ -1,12 +1,13 @@
 O conteúdo de cada aula bem como informações complementares, encontra-se na descrição de cada vídeo.
 
 No último vídeo de cada aula há uma lista de exercícios, referente à seguinte bibliografia:
+
 * [MM] Marcos M. Magalhães - Probabilidade e Variáveis Aleatórias, 2a. ed.
 * [dG&S] Morris H. DeGroot, Mark J. Schervish - Probability and Statistics, 4a. ed.
 * [HT] Henk Tijms - Probability: A Lively Introduction
 * [BJ] Barry James - Probabilidade: Um curso em nível intermediário
 
-
+*Links* para as *playlists* de cada aula:
 
 * Aula 01 - Introdução e Teoria de Conjuntos: https://www.youtube.com/playlist?list=PLvAKjhCRmLvzHo3PjpNXXZZ1W3uKXo_sE
 * Aula 02 - Sigma-álgebra: https://www.youtube.com/playlist?list=PLvAKjhCRmLvyILOoTQ1G4uhG9uE1YYNbm
